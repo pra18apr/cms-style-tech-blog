@@ -21,7 +21,7 @@
 
 Installation is a process of installing the dependencies required.
 Intialize node package manager and then run the following commands;  
-`npm install express express-handlebars express-session sequelize mysql2 bcrypt connect-session-sequelize`
+`npm install express` `express-handlebars` `express-session` `sequelize` `mysql2` `bcrypt` `connect-session-sequelize`
 
 
 ## Usage
