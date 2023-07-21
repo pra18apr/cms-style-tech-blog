@@ -1,5 +1,5 @@
 {
-  "name": "tech-blog",
+  "name": "cms-style-tech-blog",
   "version": "1.0.0",
   "description": "CMS-style blog site",
   "main": "server.js",
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/pra18apr/cms-style-tech-blog"
   },
-  "author": "Michael Giddings",
+  "author": "Pradeep Kumar",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/pra18apr/cms-style-tech-blog/issues"
