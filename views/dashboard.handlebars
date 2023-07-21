@@ -1,12 +1,16 @@
 
-<article>
-    {{#each postMulti as |post| }}
-        {{> homepage-detail post}}
+{{#if posts.length}}
+<section>
+  <h2>Your Posts</h2>
+    {{#each posts as |post|}}
+      {{> dashboard-postinfo post}}
     {{/each}}
-</article>
 
-<article>
-    {{#each postStreamers as |streamer| }}
-        {{> homepage-detail post}}
-    {{/each}}
-</article>
+</section>
+{{/if}}
+
+<div class="fixed-bottom centered">
+    <a class="btn btn-secondary btn-lg" href="/dashboard/new" role="button">+ New Post</a>
+</div>
+
+<script src="/js/add-post.js"></script>
