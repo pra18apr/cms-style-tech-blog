@@ -8,13 +8,12 @@
 
   A CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts. This application is an example of the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
+### Link to the application running on Heroku: [The CMS Style Tech Blog](https://foh-tech-blog.herokuapp.com/)
+
 ## Table of Contents
 
 * [Installation](##Installation)
 * [Usage](##Usage)
-* [License](##License)
-* [Documentation](##Documentation)
-* [Contribute](##Contribute)
 * [Questions](##Questions)
   
 ## Installation
@@ -30,17 +29,9 @@ Intialize node package manager and then run the following commands;
  Then, from the project root folder enter the sql shell and run the following command:\
 `source db/schema.sql`\
 Exit the sql shell and return to the command line still within your root project folder.\
-Run the following commands:\
-`npm run seed`\
+Run the following commands:
+`npm run seed`
 `npm start`
-
-## Documentation
-
-### Demonstration
-
-#### Screenshot
-
-### Link to the application running on Heroku: [The Tech Blog](https://foh-tech-blog.herokuapp.com/)
 
 ## Questions  
 
