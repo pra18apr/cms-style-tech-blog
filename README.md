@@ -34,6 +34,11 @@ Run the following commands:
 `npm run seed`
 `npm start`
 
+## Screeshot
+
+![image](https://github.com/pra18apr/cms-style-tech-blog/assets/130611291/80dedcfb-efdf-4c7c-98f7-17d4dd41c2a9)
+
+
 ## Questions  
 
 Email Pradeep Kumar with any support questions at [pra.18apr@gmail.com](mailto:pra.18apr@gmail.com)\
